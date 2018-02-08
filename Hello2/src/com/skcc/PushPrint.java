@@ -7,6 +7,7 @@ public class PushPrint {
 		System.out.println("world with Wiku");
 		System.out.println("World with 42");
 		System.out.println("World with Hatsune");
+		//???
 	}
 
 }
